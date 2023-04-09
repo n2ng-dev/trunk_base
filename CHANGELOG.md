@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/n2ng-dev/trunk_base/compare/v1.2.0...v1.3.0) (2023-04-09)
+
+
+### ✨ Features
+
+* fitur ([#17](https://github.com/n2ng-dev/trunk_base/issues/17)) ([6f3f8c3](https://github.com/n2ng-dev/trunk_base/commit/6f3f8c3200a807021e2630b34d5ab325d2bbc348))
+
 ## [1.2.0](https://github.com/n2ng-dev/trunk_base/compare/v1.1.1...v1.2.0) (2023-04-09)
 
 
