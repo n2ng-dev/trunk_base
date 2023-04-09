@@ -65,6 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     // Feature baru
     // ft-setting
+    // ft-setting-2
     return Scaffold(
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
