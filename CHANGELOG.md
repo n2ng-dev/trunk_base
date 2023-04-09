@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/n2ng-dev/trunk_base/compare/v1.1.0...v1.1.1) (2023-04-09)
+
+
+### 🐛 Bug Fixes
+
+* fix code ([#5](https://github.com/n2ng-dev/trunk_base/issues/5)) ([fe5b05e](https://github.com/n2ng-dev/trunk_base/commit/fe5b05e59ebece52092b51d216cd085353f893a3))
+
 ## [1.1.0](https://github.com/n2ng-dev/trunk_base/compare/v1.0.0...v1.1.0) (2023-04-09)
 
 
