@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.2.0](https://github.com/n2ng-dev/trunk_base/compare/v1.1.1...v1.2.0) (2023-04-09)
+
+
+### ♻️ Code Refactoring
+
+* conflig merge ([601eefa](https://github.com/n2ng-dev/trunk_base/commit/601eefa77e6199f8cbebf0c91f2634323f1dfd17))
+
+
+### 🐛 Bug Fixes
+
+* fix code ([7d09218](https://github.com/n2ng-dev/trunk_base/commit/7d09218a3cbb1939ba844c419addfc35f34fa71f))
+
+
+### ✨ Features
+
+* add 2 feature ([cb4a8d2](https://github.com/n2ng-dev/trunk_base/commit/cb4a8d2c2c0046862dd4ec1507da4ad8b1b4505f))
+* add feature 3 ([efe795d](https://github.com/n2ng-dev/trunk_base/commit/efe795d2814470dd65399d5dcc4966a493acbae3))
+* feature 4 ([d17ac9c](https://github.com/n2ng-dev/trunk_base/commit/d17ac9c0a644effafc0cae14de2b0bbe4d8838d4))
+* feature 5 ([9c8a1df](https://github.com/n2ng-dev/trunk_base/commit/9c8a1df2b53074a252fb2dc9b8166acaacb4ac73))
+
 ## [1.1.1](https://github.com/n2ng-dev/trunk_base/compare/v1.1.0...v1.1.1) (2023-04-09)
 
 
