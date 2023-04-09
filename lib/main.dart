@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// feature 1
+
 void main() {
   runApp(const MyApp());
 }
@@ -100,9 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             Text(
               '$_counter',
-
               style: Theme.of(context).textTheme.labelLarge,
-
             ),
           ],
         ),
