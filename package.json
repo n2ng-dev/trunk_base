@@ -1,0 +1,10 @@
+{
+  "name": "trunk_base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "_n2ng <nanank.kho@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "commit": "cz"
+  }
+}
