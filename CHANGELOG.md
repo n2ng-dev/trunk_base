@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/n2ng-dev/trunk_base/compare/v1.3.0...v1.4.0) (2023-04-09)
+
+
+### ✨ Features
+
+* feature pencatian oublik ([562ad3f](https://github.com/n2ng-dev/trunk_base/commit/562ad3f76f8bf15d7c30ead7ad300d4bb3b7f201))
+* fitur n7 ([fb9d4fe](https://github.com/n2ng-dev/trunk_base/commit/fb9d4febeb835d6e9d960881b5578332b9d1fd52))
+
 ## [1.3.0](https://github.com/n2ng-dev/trunk_base/compare/v1.2.0...v1.3.0) (2023-04-09)
 
 
