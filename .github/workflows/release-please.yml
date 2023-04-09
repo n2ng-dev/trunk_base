@@ -3,8 +3,8 @@ on:
     branches:
       - main
       - develop
-      - feature/*
-      - release/*
+      - feature
+      - release
       - ft-search
 
 permissions:
