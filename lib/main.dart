@@ -1,5 +1,11 @@
 import 'package:flutter/material.dart';
 
+// feature 1
+// feature 2
+// feature 3
+// feature 4
+
+
 void main() {
   runApp(const MyApp());
 }
@@ -63,14 +69,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    // Feature baru
-<<<<<<< HEAD
-=======
-
-    // ft-setting
-    // ft-setting-2
-
->>>>>>> d64622a4d506ce086de32ccd35f4db298ca34296
+    // This method is rerun every time setState is called, for instance as done
+    // by the _incrementCounter method above.
+    //
+    // The Flutter framework has been optimized to make rerunning build methods
+    // fast, so that you can just rebuild anything that needs updating rather
+    // than having to individually change instances of widgets.
     return Scaffold(
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
