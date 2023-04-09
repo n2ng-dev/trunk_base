@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 // feature 1
+// feature 2
+// feature 3
 
 void main() {
   runApp(const MyApp());
